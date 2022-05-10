@@ -6,7 +6,7 @@ Desafío para evaluar postulantes al cargo de Analista ETL y su capacidad de an�
 Se espera que no trabaje más allá de 5 horas, por lo que se le recomienda priorizar las tareas donde tiene más aptitudes y en las que pueda avanzar mediante pseudo codigo o explicaciones, también se evaluará el razonamiento lógico, por lo que no será tiempo perdido.
 
 # Instrucciones
-Vamos a trabajar con la información del sitio booking.com, el objetivo es persistir información sobre hoteles en una base de datos mongodb en una instancia de capa gratuita de AWS.
+Vamos a trabajar con la información del sitio booking.com, el objetivo es persistir información sobre hoteles ubicados en Chile en una base de datos mongodb en una instancia de capa gratuita de AWS.
 
 El desafio tiene por objetivo evaluar sus capacidades tanto de análisis de la estructura de un sitio, sus data types y cuales serían los pipelines necesarios para persistir recurrentemente la información en una base de datos no relacional.
 
